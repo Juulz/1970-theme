@@ -240,10 +240,10 @@
 --color-budgetNumberNegative: #cc531c; /* numberNegative; */
 --color-budgetNumberNeutral: #272630; /* pageText; */
 --color-budgetNumberPositive: #6b9405; /* budgetNumberNeutral; */
---color-templateNumberFunded: #cc9900; /* numberPositive; */
+--color-templateNumberFunded: #6b9405; /* numberPositive; */
 --color-templateNumberUnderFunded: #b88115;
 
---color-toBudgetPositive: #cc9900;
+--color-toBudgetPositive: #b88115;
 --color-toBudgetNegative: #cc531c;
 --color-toBudgetZero: #6b9405;
 
