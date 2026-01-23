@@ -241,8 +241,7 @@
 --color-budgetNumberNeutral: #272630; /* pageText; */
 --color-budgetNumberPositive: #6b9405; /* budgetNumberNeutral; */
 --color-templateNumberFunded: #cc9900; /* numberPositive; */
-
-
+--color-templateNumberUnderFunded: #b88115;
 
 --color-toBudgetPositive: #cc9900;
 --color-toBudgetNegative: #cc531c;
@@ -251,6 +250,5 @@
 --color-reportsNumberPositive: #6b9405; /* numberPositive */
 --color-reportsNumberNegative: #e12d39; /* numberNegative; */
 --color-reportsNumberNeutral: #e8ecf0; /* numberNeutral; */
-
 
 }
