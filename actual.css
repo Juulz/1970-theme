@@ -33,8 +33,8 @@
 --color-tableTextSelected: #334e68;
 --color-tableTextHover: #102a43;
 --color-tableTextInactive: #627d98;
---color-tableHeaderText: #486581;
---color-tableHeaderBackground: #fff;
+--color-tableHeaderText: #222222;
+--color-tableHeaderBackground: #c3b342;
 --color-tableBorderSelected: #a92da3;
 --color-tableBorderSeparator: #829ab1;
 --color-tableRowBackgroundHighlight: #c3c9d5;
@@ -232,5 +232,25 @@
 --color-calendarCellBackground: #e8ecf0;
 
 --color-overlayBackground: rgba(0, 0, 0, 0.3);
+
+--color-numberPositive: #6b9405;
+--color-numberNegative: #cc531c;
+--color-numberNeutral: #e8ecf0;
+--color-budgetNumberZero: #bfbfbf; /* tableTextSubdued; */
+--color-budgetNumberNegative: #cc531c; /* numberNegative; */
+--color-budgetNumberNeutral: #272630; /* pageText; */
+--color-budgetNumberPositive: #6b9405; /* budgetNumberNeutral; */
+--color-templateNumberFunded: #cc9900; /* numberPositive; */
+
+
+
+--color-toBudgetPositive: #cc9900;
+--color-toBudgetNegative: #cc531c;
+--color-toBudgetZero: #6b9405;
+
+--color-reportsNumberPositive: #6b9405; /* numberPositive */
+--color-reportsNumberNegative: #e12d39; /* numberNegative; */
+--color-reportsNumberNeutral: #e8ecf0; /* numberNeutral; */
+
 
 }
