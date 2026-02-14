@@ -82,13 +82,13 @@
 --color-mobilePageBackground: #f7fafc;
 --color-mobileNavBackground: #fff;
 --color-mobileNavItem: #98a1ae;
---color-mobileNavItemSelected: #8719e0;
+--color-mobileNavItemSelected: #a92da3;
 --color-mobileAccountShadow: #9fb3c8;
 --color-mobileAccountText: #0b5fa3;
 --color-mobileTransactionSelected: #8719e0;
 
 --color-mobileViewTheme: #a92da3; /* mobileHeaderBackground */
---color-mobileConfigServerViewTheme: #8719e0;
+--color-mobileConfigServerViewTheme: #a92da3;
 
 --color-markdownNormal: #dac4ff;
 --color-markdownDark: #9446ed;
