@@ -75,7 +75,7 @@
 --color-modalBackground: #f2f2f2;
 --color-modalBorder: #808080;
 
---color-mobileHeaderBackground: #9446ed;
+--color-mobileHeaderBackground: #a92da3;
 --color-mobileHeaderText: #f7fafc;
 --color-mobileHeaderTextSubdued: #bdc5cf;
 --color-mobileHeaderTextHover: rgba(200, 200, 200, .15);
@@ -87,7 +87,7 @@
 --color-mobileAccountText: #0b5fa3;
 --color-mobileTransactionSelected: #8719e0;
 
---color-mobileViewTheme: #9446ed; /* mobileHeaderBackground */
+--color-mobileViewTheme: #a92da3; /* mobileHeaderBackground */
 --color-mobileConfigServerViewTheme: #8719e0;
 
 --color-markdownNormal: #dac4ff;
@@ -212,7 +212,7 @@
 --color-noteTagDefault: #e4d4ff;
 --color-noteTagText: #000;
 
---color-upcomingText: #000000;
+--color-upcomingText: #a92da3;
 --color-upcomingBorder: #8e258a;
 --color-upcomingBackground: #f5d6f4;
 
