@@ -45,7 +45,7 @@
 --color-sidebarBackground: #424323;
 --color-sidebarBudgetName: #c3b342;
 --color-sidebarItemAccentSelected: hsl(303, 58%, 80%);
---color-sidebarItemBackgroundHover: #848646;
+--color-sidebarItemBackgroundHover: rgba(100, 100, 100, .5);
 --color-sidebarItemText: #fff;
 --color-sidebarItemTextSelected: hsl(303, 58%, 80%);
 
@@ -214,7 +214,7 @@
 
 --color-upcomingText: #a92da3;
 --color-upcomingBorder: #8e258a;
---color-upcomingBackground: #f5d6f4;
+--color-upcomingBackground: hsl(303, 61%, 93%);
 
 --color-budgetOtherMonth: #eee3dd;
 --color-budgetCurrentMonth: #f4ebe7;
@@ -233,14 +233,14 @@
 
 --color-overlayBackground: rgba(0, 0, 0, 0.3);
 
---color-numberPositive: #6b9405;
+--color-numberPositive: hsl(77, 93%, 22%);;
 --color-numberNegative: #cc531c;
 --color-numberNeutral: #e8ecf0;
 --color-budgetNumberZero: #bfbfbf; /* tableTextSubdued; */
 --color-budgetNumberNegative: #cc531c; /* numberNegative; */
 --color-budgetNumberNeutral: #4d2d19; /* pageText; */
---color-budgetNumberPositive: #6b9405; /* budgetNumberNeutral; */
---color-templateNumberFunded: #6b9405; /* numberPositive; */
+--color-budgetNumberPositive: hsl(77, 93%, 22%); /* numberPositive; */
+--color-templateNumberFunded: hsl(77, 93%, 22%); /* numberPositive; */
 --color-templateNumberUnderFunded: #b88115;
 
 --color-toBudgetPositive: #b88115;
