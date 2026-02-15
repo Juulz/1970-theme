@@ -234,17 +234,17 @@
 --color-overlayBackground: rgba(0, 0, 0, 0.3);
 
 --color-numberPositive: hsl(77, 93%, 22%);;
---color-numberNegative: #cc531c;
+--color-numberNegative: hsl(15, 100%, 35%);
 --color-numberNeutral: #e8ecf0;
 --color-budgetNumberZero: #bfbfbf; /* tableTextSubdued; */
---color-budgetNumberNegative: #cc531c; /* numberNegative; */
+--color-budgetNumberNegative: hsl(15, 100%, 35%); /* numberNegative; */
 --color-budgetNumberNeutral: #4d2d19; /* pageText; */
 --color-budgetNumberPositive: hsl(77, 93%, 22%); /* numberPositive; */
 --color-templateNumberFunded: hsl(77, 93%, 22%); /* numberPositive; */
---color-templateNumberUnderFunded: #b88115;
+--color-templateNumberUnderFunded: hsl(40, 100%, 30%);
 
---color-toBudgetPositive: #b88115;
---color-toBudgetNegative: #cc531c;
+--color-toBudgetPositive: hsl(40, 100%, 35%);
+--color-toBudgetNegative: hsl(15, 100%, 35%);
 --color-toBudgetZero: #6b9405;
 
 --color-reportsNumberPositive: #6b9405; /* numberPositive */
