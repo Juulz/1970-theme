@@ -241,7 +241,7 @@
 --color-budgetNumberNeutral: #4d2d19; /* pageText; */
 --color-budgetNumberPositive: hsl(77, 93%, 22%); /* numberPositive; */
 --color-templateNumberFunded: hsl(77, 93%, 22%); /* numberPositive; */
---color-templateNumberUnderFunded: hsl(40, 100%, 30%);
+--color-templateNumberUnderFunded: hsl(47, 100%, 34%);
 
 --color-toBudgetPositive: hsl(40, 100%, 35%);
 --color-toBudgetNegative: hsl(15, 100%, 35%);
