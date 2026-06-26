@@ -43,15 +43,16 @@
 --color-tableRowHeaderText: #243b53;
 
 --color-sidebarBackground: #424323;
---color-sidebarBudgetName: #c3b342;
 --color-sidebarItemAccentSelected: hsl(303, 58%, 80%);
 --color-sidebarItemBackgroundHover: rgba(100, 100, 100, .5);
 --color-sidebarItemText: #fff;
 --color-sidebarItemTextSelected: hsl(303, 58%, 80%);
-
 --color-sidebarItemBackgroundPending: #ffff00;
 --color-sidebarItemBackgroundPositive: #227777;
 --color-sidebarItemBackgroundFailed: #cc531c;
+--color-sidebarBudgetName: #d3c031;
+--color-tableTextItemAdded: #0000ff;
+--color-sidebarItemTextUpdated: #d3c031;  
 
 --color-menuAutoCompleteTextHeader: #e6bb0f;
 
