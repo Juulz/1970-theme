@@ -57,6 +57,9 @@
 --color-tableTextItemAdded: #0000ff;
 --color-sidebarItemTextUpdated: #d3c031;  
 
+--color-settingsNavItemTextSelected: var(--color-pageText);
+--color-settingsNavItemBackgroundSelected: var(--color-sidebarItemTextSelected);  
+
 --color-menuAutoCompleteTextHeader: #e6bb0f;
 
 --color-menuBackground: #fff;
